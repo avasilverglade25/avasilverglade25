@@ -10,7 +10,8 @@
 
 ### 📌 Current Projects  
 - **[Verified Tickets]** – Secure mobile ticketing marketplace  
-- **[Wolverine Study Match]** – AI-powered study group matcher  
+- **[Wolverine Study Match]** – AI-powered study group matcher
+- **[Baking Recipe App]** – Save, organize, and share your favorite recipes  
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ava_Silverglade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ava-silverglade/)  
