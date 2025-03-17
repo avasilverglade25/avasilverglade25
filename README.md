@@ -2,9 +2,10 @@
 👩‍💻 CS @ University of Michigan | Software Developer  
 🚀 Exploring **frontend, backend, and full-stack systems**  
 💡 Passionate about **problem-solving, scalable systems, and innovation**  
+📚 Always excited to **learn new languages and technologies**  
 
 ### 🛠 Tech Stack  
-- **Languages:** JavaScript, Python, C++, TypeScript, Swift, SQL, more  
+- **Languages:** C++, SQL, Java, Python, HTML, JavaScript, C, Typescript, Swift, and more  
 - **Tools & Frameworks:** React.js, Node.js, GraphQL, Docker, AWS, GCP  
 
 ### 📌 Current Projects  
