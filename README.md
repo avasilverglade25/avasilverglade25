@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ava Silverglade!  
+👩‍💻 CS @ University of Michigan | Software Developer  
+🚀 Exploring **frontend, backend, and full-stack systems**  
+💡 Passionate about **problem-solving, scalable systems, and innovation**  
 
-<!--
-**avasilverglade25/avasilverglade25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack  
+- **Languages:** JavaScript, Python, C++, TypeScript, Swift, SQL, more  
+- **Tools & Frameworks:** React.js, Node.js, GraphQL, Docker, AWS, GCP  
 
-Here are some ideas to get you started:
+### 📌 Current Projects  
+- **[Verified Tickets]** – Secure mobile ticketing marketplace  
+- **[Wolverine Study Match]** – AI-powered study group matcher  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ava_Silverglade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ava-silverglade/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Ava_Silverglade-black?style=flat&logo=github)](https://github.com/avasilverglade25)  
